@@ -7,7 +7,7 @@ package studentarray;
 
 import java.util.Scanner;
 
-/**
+/**This is a model class for student
  *
  * @author Megha Patel
  */
